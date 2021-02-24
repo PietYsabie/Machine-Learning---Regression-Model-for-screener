@@ -10,6 +10,6 @@ Train the model, and it will estimate a expected return for a single stock or fo
 The ML algorithm returns weight coefficients for each of the input data:
 ![image](https://user-images.githubusercontent.com/78446548/109010868-9caf7c00-76b0-11eb-953b-4c7539d63c0f.png)
 
-and it shows the actual retuns versus the prediction:
+and it shows the actual returns versus the prediction:
 
 ![image](https://user-images.githubusercontent.com/78446548/109011090-d97b7300-76b0-11eb-8946-71c6629ff51b.png)
