@@ -7,7 +7,7 @@ Apply training data in a csv format such as:
 
 Train the model, and it will estimate a expected return for a single stock or for a portfolio.
 
-the code returns weight coefficients for each of the input data:
+The ML algorithm returns weight coefficients for each of the input data:
 ![image](https://user-images.githubusercontent.com/78446548/109010868-9caf7c00-76b0-11eb-953b-4c7539d63c0f.png)
 
 and it shows the actual retuns versus the prediction:
