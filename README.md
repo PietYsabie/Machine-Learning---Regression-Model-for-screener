@@ -10,3 +10,4 @@ the code returns weight coefficients for each of the input data
 
 and show the actual retuns versus the prediction:
 
+![image](https://user-images.githubusercontent.com/78446548/109011090-d97b7300-76b0-11eb-8946-71c6629ff51b.png)
